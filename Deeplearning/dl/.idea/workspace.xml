@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d431c1e6-2101-4b4e-8cb1-60247b6d46eb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>optimizeroptimizer</find>
+      <find>data</find>
+      <find>data_la</find>
+      <find>get_test_set</find>
+      <find>_opti</find>
+      <find>optim</find>
+      <find>image_siz</find>
+      <find>q</find>
+      <find>w</find>
+      <find>print</find>
+      <find>self.i</find>
+      <find>show</find>
+      <find>weights</find>
+      <find>num_kernels</find>
+      <find>flatt</find>
+      <find>initializer</find>
+      <find>fan_in</find>
+      <find>initia</find>
+      <find>optimizer</find>
+      <find>net</find>
+      <find>initialize</find>
+      <find>TestInitialize</find>
+      <find>self.TestInitializer</find>
+      <find>bias</find>
+      <find>TestInitializer</find>
+      <find>self.TestInitializer()</find>
+      <find>TestInitializer()</find>
+      <find>pooling</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1gfvHjs3iIgryFnNMtMzjnTOU76" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in NeuralNetworkTests.py">
+    <configuration name="Unittests for NeuralNetworkTests.TestConv" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;NeuralNetworkTests.TestConv&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for NeuralNetworkTests.TestConvNet" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;NeuralNetworkTests.TestConvNet&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for NeuralNetworkTests.TestConv.test_gradient" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;NeuralNetworkTests.TestConv.test_gradient&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for NeuralNetworkTests.TestConv.test_update" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;NeuralNetworkTests.TestConv.test_update&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in NeuralNetworkTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/NeuralNetworkTests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in NeuralNetworkTests.py" />
+      <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConv" />
+      <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConv.test_update" />
+      <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConv.test_gradient" />
+      <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConvNet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in NeuralNetworkTests.py" />
+        <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConvNet" />
+        <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConv" />
+        <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConv.test_gradient" />
+        <item itemvalue="Python tests.Unittests for NeuralNetworkTests.TestConv.test_update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d431c1e6-2101-4b4e-8cb1-60247b6d46eb" name="Default" comment="" />
+      <created>1572020861686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572020861686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 00h 22m 19s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 00h 33m 24s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 00h 38m 24s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 00h 44m 54s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 08h 06m 19s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 08h 06m 52s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 08h 26m 51s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 08h 35m 16s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2019.12.13 at 08h 36m 57s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_NeuralNetworkTests_py - 2020.01.12 at 18h 33m 33s.xml">
+      <configuration name="Unittests in NeuralNetworkTests.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NeuralNetworkTests.py</url>
+          <line>530</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>p1%2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>error_tensor</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.weights[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.input_tensor[b]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.weights</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.input_tensor</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.num_kernels</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.bias[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.bias</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp[self.input_tensor.shape[1] // 2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
